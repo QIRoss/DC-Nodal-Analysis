@@ -1,0 +1,8 @@
+* Exemplo basico de netlist.
+* Netlist de um circuito com dois resistores
+* e uma fonte de corrente constante.
+* solucao: e1 = 10V ; e2 = 8 V
+
+I1 0 1 DC 2
+R1 1 2 1
+R2 2 0 4
