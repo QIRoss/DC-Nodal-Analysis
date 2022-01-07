@@ -1,4 +1,4 @@
-# Nodal-Analysis
+# DC-Nodal-Analysis
 using python libraries numpy, scipy, matplotlib
 
 # How to use:
